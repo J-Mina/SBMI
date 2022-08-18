@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/Users/joaor/OneDrive/Ambiente de Trabalho/Feup/3.1/SBMI/Projeto_SBMI/Alarm-SBMI/Alarm/include",
+                "c:/Users/joaor/OneDrive/Ambiente de Trabalho/Feup/3.1/SBMI/Projeto_SBMI/Alarm-SBMI/Alarm/src",
+                "C:/Users/joaor/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/joaor/OneDrive/Ambiente de Trabalho/Feup/3.1/SBMI/Projeto_SBMI/Alarm-SBMI/Alarm/include",
+                    "c:/Users/joaor/OneDrive/Ambiente de Trabalho/Feup/3.1/SBMI/Projeto_SBMI/Alarm-SBMI/Alarm/src",
+                    "C:/Users/joaor/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "F_CPU=16000000L",
+                "PLATFORMIO=50003",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/joaor/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
